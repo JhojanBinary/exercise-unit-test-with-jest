@@ -1,4 +1,3 @@
-// Importamos las funciones y el objeto de tasas de conversión desde app.js
 const { fromEuroToDollar, fromDollarToYen, fromYenToPound, oneEuroIs } = require('./app.js');
 
 
